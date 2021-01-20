@@ -14,7 +14,7 @@
     </properties>
 
     <build>
-        <finalName>docker-jenkins-sample</finalName>
+        <finalName>docker-jenkins-smple</finalName>
     </build>
 
 </project>
